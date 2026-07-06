@@ -1,5 +1,5 @@
 # wagamamaNX
-English translation patch for Nintendo Switch version of `Wagamama High Spec`. based on the PS Vita patch created by Froid_san.
+English translation patch for Nintendo Switch version of `Wagamama High Spec`. Based on the PS Vita patch created by Froid_san.
 
 # Important Notes 
 * The original Switch version is structurally identical to the PS Vita version. All assets are rendered at 960x540.
@@ -17,3 +17,4 @@ English translation patch for Nintendo Switch version of `Wagamama High Spec`. b
 # Credits & Acknowledgments
 - [pfs-rs](https://github.com/sakarie9/pfs-rs) - File extraction
 - [Froid_san](https://www.reddit.com/r/VitaPiracy/comments/9hgydj/wagamama_high_spec_361_pcsg01084_nonpdrm_repatch) - Creator of the original PS Vita translation patch and assets.
+- Clade Code - Shift-JIS encoding/decoding script
