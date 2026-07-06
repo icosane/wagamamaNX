@@ -18,3 +18,4 @@ English translation patch for Nintendo Switch version of `Wagamama High Spec`. B
 - [pfs-rs](https://github.com/sakarie9/pfs-rs) - File extraction
 - [Froid_san](https://www.reddit.com/r/VitaPiracy/comments/9hgydj/wagamama_high_spec_361_pcsg01084_nonpdrm_repatch) - Creator of the original PS Vita translation patch and assets.
 - Claude - Shift-JIS encoding/decoding script
+- [YuriSizuku/GalgameReverse](https://github.com/YuriSizuku/GalgameReverse/) - Original Artemis encoding/decoding script
