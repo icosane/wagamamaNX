@@ -1,5 +1,5 @@
 # wagamamaNX
-English translation patch for Nintendo Switch version of `Wagamama High Spec`. Based on PSVita patch by Froid_san.
+English translation patch for Nintendo Switch version of `Wagamama High Spec`. based on the PS Vita patch created by Froid_san.
 
 # Important Notes 
 * The original Switch version is structurally identical to the PS Vita version. All assets are rendered at 960x540.
